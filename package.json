@@ -1,7 +1,7 @@
 {
   "name": "@soulofmischief/flow-types",
-  "description": "A collection of poorly-defined flow types meant for personal use ",
-  "version": "1.1.2",
+  "description": "A collection of poorly-defined Flow types meant for personal use",
+  "version": "0.0.1",
   "author": {
     "name": "soulofmischief",
     "email": "soulofmischief@protonmail.com",
